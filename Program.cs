@@ -7,9 +7,6 @@ namespace MyApp
         {
             Console.WriteLine("Hello, World! from C Sharp");
             Console.ReadLine();
-            // ali
-            Console.WriteLine("Hello, World! from C Sharp");
-            Console.ReadLine();
         }
     }
 }
